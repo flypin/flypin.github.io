@@ -1,3 +1,4 @@
+'''
 // ==UserScript==
 // @name         New Userscript
 // @namespace    http://tampermonkey.net/
@@ -24,3 +25,5 @@
 
     // Your code here...
 })();
+
+'''
